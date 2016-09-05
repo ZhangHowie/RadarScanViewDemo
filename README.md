@@ -1,2 +1,3 @@
 # RadarTest
-根据RadarScanView写出来的Demo，作者前面的程序用AS直接打不开，先重新重构，可以直接使用
+根据RadarScanView写出来的Demo，作者前面的程序不知道什么原因用AS直接打不开
+现在重新重构，可以直接使用，如果想使用这个RadarScanView，可以直接导入lib
